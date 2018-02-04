@@ -1,0 +1,25 @@
+{
+  "name": "pet-friend-finder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akt12345/pet-friend-finder.git"
+  },
+  "author": "Abby Thoresen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akt12345/pet-friend-finder/issues"
+  },
+  "homepage": "https://github.com/akt12345/pet-friend-finder#readme"
+}

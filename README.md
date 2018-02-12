@@ -15,7 +15,6 @@ I built a compatibility-based "Barnyard Pet Friend Finder" full stack applicatio
 
 <a href="sheep.jpg" target="_blank"><img src="sheep.jpg" alt="Sheep Modal Pop Up" style="max-width:100%;"></a>
 
-<a href="cow.jpg" target="_blank"><img src="cow.jpg" alt="Cow Modal Pop Up" style="max-width:100%;"></a>
 
 
 
@@ -24,9 +23,13 @@ https://evening-sierra-16412.herokuapp.com/home.html
 
 ## Technologies Used:
 Express
+
 JQuery
+
 JavaScript
+
 nodeJS
+
 npm packages: express, body-parser
 
 ## Author
